@@ -22,8 +22,8 @@ export const AboutSection = () => {
                     <div className="w-12 h-12 bg-primary-100 dark:bg-primary-900/50 rounded-full flex items-center justify-center mb-4">
                       <Calendar className="text-primary-600 dark:text-primary-400 w-6 h-6" />
                     </div>
-                    <h3 className="font-semibold text-slate-900 dark:text-white pb-1">Founded</h3>
-                    <p className="text-slate-600 dark:text-slate-300 text-sm">May 7, 2021</p>
+                    <h3 className="font-semibold text-slate-900 dark:text-white pb-1">Future Ready</h3>
+                    <p className="text-slate-600 dark:text-slate-300 text-sm">AI-driven innovation</p>
                   </div>
 
                   <div className="glass-panel p-6 rounded-2xl">
