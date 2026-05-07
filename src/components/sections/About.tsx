@@ -23,7 +23,7 @@ export const AboutSection = () => {
                       <Calendar className="text-primary-600 dark:text-primary-400 w-6 h-6" />
                     </div>
                     <h3 className="font-semibold text-slate-900 dark:text-white pb-1">Founded</h3>
-                    <p className="text-slate-600 dark:text-slate-300 text-sm">May 7, 2021 by Dwij Bhatt</p>
+                    <p className="text-slate-600 dark:text-slate-300 text-sm">May 7, 2021</p>
                   </div>
 
                   <div className="glass-panel p-6 rounded-2xl">
