@@ -45,7 +45,7 @@ export const Footer = () => {
                 <a href="mailto:innovishllp@gmail.com" className="hover:text-white transition-colors">innovishllp@gmail.com</a>
               </li>
               <li>
-                <p className="text-slate-400">Serving clients globally across US, Europe & India</p>
+                <p className="text-slate-400"></p>
               </li>
             </ul>
           </div>
