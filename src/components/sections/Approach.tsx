@@ -4,23 +4,23 @@ import { motion } from 'framer-motion';
 const steps = [
   {
     id: "01",
-    title: "Product-Led Thinking",
-    desc: "Focus on usability, adoption, scalability, analytics, and commercial value."
+    title: "Discover & Design",
+    desc: "Audit your market position, revenue model, and product gaps. Align on what success looks like before any work begins."
   },
   {
     id: "02",
-    title: "API & Data-Centric Architecture",
-    desc: "Transform fragmented information into structured interoperable digital assets."
+    title: "Architect & Prioritise",
+    desc: "Design the product and AI-powered tech stack. Build a ruthlessly prioritised roadmap tied directly to growth outcomes."
   },
   {
     id: "03",
-    title: "Agile Global Delivery",
-    desc: "Collaborate seamlessly across distributed teams in US, Europe, and India."
+    title: "Build & Ship",
+    desc: "Embedded delivery — embedded in your team, owning sprints end-to-end. Fast cycles, real accountability, no handoff lag."
   },
   {
     id: "04",
-    title: "Outcome-Driven Execution",
-    desc: "Align every solution with measurable business impact."
+    title: "Measure & Scale",
+    desc: "Track activation, retention, and revenue signals. Iterate fast on what data confirms — and cut what it doesn't."
   }
 ];
 
