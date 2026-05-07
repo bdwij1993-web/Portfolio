@@ -76,7 +76,7 @@ export const ContactSection = () => {
                   value={formData.name}
                   onChange={e => setFormData({ ...formData, name: e.target.value })}
                   className="w-full px-4 py-3 rounded-lg border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50 text-slate-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary-500 transition-shadow"
-                  placeholder="John Doe"
+                  placeholder=""
                 />
               </div>
               <div className="space-y-2">
@@ -88,7 +88,7 @@ export const ContactSection = () => {
                   value={formData.email}
                   onChange={e => setFormData({ ...formData, email: e.target.value })}
                   className="w-full px-4 py-3 rounded-lg border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50 text-slate-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary-500 transition-shadow"
-                  placeholder="john@company.com"
+                  placeholder=""
                 />
               </div>
             </div>
