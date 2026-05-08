@@ -84,8 +84,8 @@ export const HeroSection = () => {
                     <Zap className="w-5 h-5" />
                   </div>
                   <div>
-                    <p className="text-sm font-semibold dark:text-white">API Gateway</p>
-                    <p className="text-xs text-green-500">99.9% Uptime</p>
+                    <p className="text-sm font-semibold dark:text-white">Agile Execution</p>
+                    <p className="text-xs text-green-500">Accelerate GTM</p>
                   </div>
                 </div>
               </motion.div>
