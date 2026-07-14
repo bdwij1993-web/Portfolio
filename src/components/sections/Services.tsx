@@ -15,8 +15,8 @@ const services = [
   },
   {
     icon: <Search className="w-6 h-6" />,
-    title: "Research & Financial Data Platforms",
-    desc: "Robust data architectures built for volume, speed, and precision in financial markets."
+    title: "AI Solutions Architecture",
+    desc: "Build AI-powered products with scalable architectures and seamless system integrations"
   },
   {
     icon: <BarChart className="w-6 h-6" />,
