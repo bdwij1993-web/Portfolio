@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Twitter, Linkedin, Github, Mail } from 'lucide-react';
-import logo from '../../assets/Logoss.png';
+import logo from '../../assets/logoss.png';
 
 export const Footer = () => {
   return (
