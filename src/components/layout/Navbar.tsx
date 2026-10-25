@@ -47,7 +47,7 @@ export const Navbar = () => {
           {/* Logo */}
           <a href="#" className="flex-shrink-0 flex items-center gap-2 group">
              <div className="relative h-10 flex items-center">
-               <img src={logo} alt="Innovish Logo" className="h-8 md:h-10 w-auto" />
+               <img src={logo} alt="Innovish Logo" className="h-10 md:h-12 w-auto" />
              </div>
           </a>
 
