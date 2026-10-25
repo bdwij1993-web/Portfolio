@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X } from 'lucide-react';
 import { Button } from '../ui/Button';
-import logo from '../../assets/Logos.png';
+import logo from '../../assets/logos.png';
 
 const links = [
   { name: 'About', href: '#about' },
